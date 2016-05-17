@@ -1,12 +1,14 @@
 1. Create [github](https://github.com/) account
-2. Join our gitter chat
-  https://gitter.im/rolling-scopes-school/padawans
-3. Install the following software on your machine
+2. Create [codewars](http://www.codewars.com/) account
+3. Create [codeschool](https://www.codeschool.com/) account
+4. Join our gitter chat
+   https://gitter.im/rolling-scopes/webinar
+5. Install the following software on your machine
   * http://nodejs.org/
   * http://git-scm.com/downloads
   * http://www.sublimetext.com/
   * (optional) https://www.jetbrains.com/webstorm/
-4. Learn Git basics
+6. Learn Git basics
   * https://www.codeschool.com/courses/try-git
   * https://www.codeschool.com/courses/git-real (at least first level)
   * (optional) http://git-scm.com/book
